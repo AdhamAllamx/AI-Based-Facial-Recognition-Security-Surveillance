@@ -202,11 +202,6 @@ void execute_Eigen_Faces_Projection(void *params) {
         end_Face_Recognition_time = esp_timer_get_time(); // Capture end time
         Serial.print("Execution Time (ms): ");
         Serial.println((end_Face_Recognition_time - start_Face_Recognition_time) / 1000); // Print execution time in milliseconds
-        //  if (class_label != -1) {
-        //     blink_TWICE_LED(); // Blink twice for Face Recognition
-        // } else {
-        //     blink_ONCE_LED(); // Blink once for Face Recognition
-        // }
         Serial.print("Predicted class :");
         Serial.println(class_label);
         Serial.println();
