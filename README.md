@@ -156,7 +156,7 @@ Content-Type: application/json
 - Bachelor’s Thesis submitted to GIU Berlin (April 2024)  
 - Supervisor: Dr. Mohamed Karam  
 - Grade: **A+ (Excellent)**  
-- Final Title: *AI-Based Facial Recognition for Security & Surveillance Using Edge Microcontrollers*  
+- Final Title: *AI-Based Facial Recognition for Security & Surveillance (Security + AI)*  
 - Research Focus:  
   - Lightweight AI inference on low-power hardware  
   - Edge IoT system for real-time surveillance  
@@ -173,7 +173,7 @@ This project is released under the [MIT License](LICENSE).
 ## 🙋 Acknowledgments
 
 - **German University in Cairo** and **German International University Berlin** for academic guidance  
-- **Dr. Mohamed Karam** for supervision and technical mentorship  
+- **Prof. Dr. Amr Talaat** for supervision and technical mentorship  
 - **OpenMMLab & ESP32 Teams** for toolkits and model backbones  
 
 ---
